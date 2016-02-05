@@ -370,38 +370,6 @@ a {
 		overflow: hidden;
 	}
 	
-	#header #searchform {
-		background: url(/images/search-input.gif) no-repeat 0% 0%;
-		width: 299px;
-		height: 29px;
-		overflow: hidden;
-	}
-	
-		#header #searchform input[type="text"] {
-			background: none;
-			width: 251px;
-			height: 19px;
-			padding: 5px 9px 5px 9px;
-			border: none;
-			float: left;
-			font-family: Arial, Helvetica, sans-serif;
-			font-size: 15px;
-			color: #656566;
-		}
-		
-		#header #searchform input[type="submit"] {
-			background: url(/images/search-submit.gif) no-repeat 0% 0%;
-			width: 30px;
-			height: 29px;
-			padding: 0;
-			overflow: hidden;
-			border: none;
-			float: left;
-			cursor: pointer;
-			font-size: 0;
-			text-indent: -999px;
-		}
-	
 #site-title {
 	float: left;
 	margin: 100px 0 18px 0;
