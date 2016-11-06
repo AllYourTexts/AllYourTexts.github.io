@@ -8,13 +8,14 @@ menu-item: true
 
 <div class="page type-page status-publish hentry">
   <h1 class="entry-title">Download</h1>
-                           
   <div class="entry-content">
-    <h5>Download AllYourTexts now. Install it on any computer where you’ve sync’ed your iPhone to view your text messages on that PC.</h5>
+    <h3 style="clear: both; color: red">AllYourTexts is Broken on iOS 10</h3>
+    <p>AllYourTexts is <b>not</b> compatible with iOS 10 and above. See the <a href="https://github.com/AllYourTexts/AllYourTexts/issues/18">open issue</a> on Github if you are interested in fixing this issue or contributing to the bounty to get the issue fixed.</p>
+    <h3 style="clear: both">I Don&#39;t Care. Let Me Download Anyway</h3>
+    <p>Download AllYourTexts now. Install it on any computer where you’ve sync’ed your iPhone to view your text messages on that PC.</p>
     <p><script type="text/javascript">// <![CDATA[
-      function toggleDownloadEnabled()
-      {
-      document.downloadForm.downloadButton.disabled = !document.downloadForm.licenseAgreement.checked;
+      function toggleDownloadEnabled() {
+        document.downloadForm.downloadButton.disabled = !document.downloadForm.licenseAgreement.checked;
       }
       // ]]&gt;
       </script>
@@ -24,7 +25,6 @@ menu-item: true
       <input style="margin: 2px 0px 0px 5px; padding: 5px 25px;" type="submit" name="downloadButton" value="Download AllYourTexts" disabled="disabled"><br>
       <input style="margin: 0px 0px 0px 33px;" onclick="toggleDownloadEnabled()" type="checkbox" name="licenseAgreement" value="AgreeLicense"> I have read and agree to the <a title="License" href="/license/" target="_blank">End User License Agreement</a>.<p></p>
     </form>
-    <p>&nbsp;</p>
     <h3 style="clear: both;">Requirements</h3>
     <ul style="margin-left: 30px;">
       <li>+ Windows 10, Windows 8, Windows 7, Windows Vista SP1, or Windows XP SP3</li>

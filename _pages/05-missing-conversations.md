@@ -8,6 +8,9 @@ breadcrumb: "Troubleshooting Old or Missing Conversations"
 <div class="page type-page status-publish hentry">
   <h1 class="entry-title">Troubleshooting Old or Missing Conversations</h1>
   <div class="entry-content">
+    <h3 style="clear: both; color: red">AllYourTexts is Broken on iOS 10</h3>
+    <p>If you&#39;ve installed the latest version of iOS on your iPhone, AllYourTexts will not be able to find your text messages.</p>
+    <p>There is an open bounty for the person who can fix this issue. If you are interested in contributing to the bounty or fixing the issue to receive payment, visit the <a href="https://github.com/AllYourTexts/AllYourTexts/issues/18">open issue</a> on Github.</p>
     <h3>Ensure Your PC Has the Latest Data</h3>
     <p>AllYourTexts works by using the backup data on your PC. If you have your iPhone set to back up to iCloud, AllYourTexts cannot display the most up to date texts. To ensure AllYourTexts can work properly, try the following steps:</p>
     <ol style="font-size:11pt; padding-left: 18px;">
