@@ -1,6 +1,6 @@
 ---
 layout: home
-audience: homepage
+audience: home
 permalink: /
 breadcrumb: "Home"
 menu-item: true
